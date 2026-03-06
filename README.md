@@ -93,10 +93,6 @@ The dashboard contains the following visuals:
 
 
 
-```
-
----
-
 ## 💡 What I Learned
 
 Through this project I practiced:
