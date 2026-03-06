@@ -89,8 +89,8 @@ The dashboard contains the following visuals:
 
 ## 📷 Dashboard Preview
 
-*<img width="927" height="496" alt="image" src="https://github.com/user-attachments/assets/6c651da6-5b11-48d0-a17b-243ecd068614" />
-*
+<img width="927" height="496" alt="image" src="https://github.com/user-attachments/assets/6c651da6-5b11-48d0-a17b-243ecd068614" />
+
 
 
 ```
